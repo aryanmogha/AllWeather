@@ -17,7 +17,7 @@ struct WelcomeView: View {
                 Text ("Welcome to the Cloudy App")
                     .bold()
                     .font(.title)
-                Text ("Please share your current location to get the weather in your area")
+                Text ("Please share your current location to get the weather of your area")
                     .padding ()
             }
             .multilineTextAlignment(.center)
